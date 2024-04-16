@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "832498994309",
+    "project_id": "mappls-hackathon",
+    "storage_bucket": "mappls-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832498994309:android:8bce558f78f3f76262edec",
+        "android_client_info": {
+          "package_name": "com.example.mappls_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832498994309-b0hbpq1d52o4jm1gbdvpeckhu4euqem3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXJ0ZhqFewqUYOpuKg6lfBcPZqTuwwWwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832498994309-b0hbpq1d52o4jm1gbdvpeckhu4euqem3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "832498994309-547p3suu4u5tt9ae3ab4ojcce3c3c9bv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mapplsHackathon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
